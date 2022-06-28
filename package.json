@@ -43,6 +43,6 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "prettier": "^2.7.1"
   },
-  "homepage": "https://github.com/Sergl82/ra-hoc-time",
+  "homepage": "https://sergl82.github.io/ra-hoc-time/",
   "main": "index.js"
 }
